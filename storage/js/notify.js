@@ -69,5 +69,5 @@ function createNotification(message) {
 }
 
 window.onload = () => {
-    createNotification('hi guys its my birthday');
+    createNotification('w concert 2/27, chamber was cool');
 };
